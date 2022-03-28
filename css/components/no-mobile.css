@@ -1,4 +1,4 @@
-#no-Landscape {
+#no-landscape {
   position: absolute;
   z-index: 99;
   height: 100vh;
@@ -12,7 +12,7 @@
 }
 
 @media screen and (orientation: portrait) {
-  #no-Landscape {
+  #no-landscape {
     display: none;
   }
 }
