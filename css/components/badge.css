@@ -1,0 +1,23 @@
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+.badge-find {
+  width: 5px;
+  height: 5px;
+  left: 70px;
+  top: -8px;
+}
+.badge-more {
+  width: 5px;
+  height: 5px;
+  left: 910px;
+  top: 40px;
+}
